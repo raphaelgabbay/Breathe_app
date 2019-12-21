@@ -24,9 +24,19 @@ Cette dernière permet d'obtenir le **nom de la ville** ainsi que la **qualité 
 
 N'ayant pas été présent au semestre dernier, c'était la première fois que je développais une application mobile. 
 
+## Le développement
+
+### Ressenti personnel
+
+N'ayant pas été présent au semestre dernier, c'était la première fois que je développais une application mobile. 
+Je ne pensais pas passer autant de temps pour développer une application si simple. En rétrospective, je me rends compte que j'aurais dû commencer à travailler dessus plus tôt. En effet, je me suis retrouvé au pied du mur lors de la dernière semaine et j'ai donc dû faire des concessions sur certaines des fonctionnalités que j'avais imaginées.
+
+Ceci dit, je suis plutôt satisfait de mon travail, et c'est avec plaisir que je recommencerai l'expérience dans le futur.
+
 ### Compétences développées
 
-
-# Conclusion
-
-Au cours de ce projet, j'ai pu
+ - Kotlin
+ - Gestion d'APIs REST
+ - JSON Parsing
+ - Utilisation des APIs Google (Localisation)
+ - Gestion du temps
