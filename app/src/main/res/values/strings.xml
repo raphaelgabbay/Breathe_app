@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Breathe</string>
+    <string name="action_settings">Settings</string>
+    <string name="city">You are currently located in :</string>
+    <string name="air">Air quality in your city :</string>
+    <string name="refresh">Refresh</string>
+</resources>
